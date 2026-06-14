@@ -43,10 +43,8 @@
 在支持 Agent Skills 的工具里输入：
 
 ```text
-帮我安装这个 skill：https://github.com/<your-name>/weixun-skill
+帮我安装这个 skill：https://github.com/nightboy87/weixun-skill
 ```
-
-发布到你自己的 GitHub 后，把 `<your-name>` 替换成你的 GitHub 用户名。
 
 ### 方式二：手动安装
 
